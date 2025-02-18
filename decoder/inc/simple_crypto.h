@@ -20,7 +20,7 @@
 
 /******************************** MACRO DEFINITIONS ********************************/
 #define BLOCK_SIZE AES_BLOCK_SIZE
-#define KEY_SIZE 16
+#define KEY_SIZE 32
 #define HASH_SIZE MD5_DIGEST_SIZE
 
 /******************************** FUNCTION PROTOTYPES ********************************/
